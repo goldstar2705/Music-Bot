@@ -15,13 +15,11 @@ bot = Client(
 )
 
 START_TEXT = """
-Hi **{}** 👋
+SALOM **{}** 👋
 
-Just send me a song name and I'll send the audio to you on Telegram.
+MENGA SHUNCHAKI QOʻSHIQ NOMINI YUBORING.
 
-__Follow dev on github [@ImJanindu](https://github.com/ImJanindu)__
-
-__A part of **@JaguarBots**__
+  **@GOLD_STARUZ**
 """
 
 @bot.on_message(filters.command("start") & filters.private)
