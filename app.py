@@ -9,9 +9,9 @@ from youtubesearchpython import SearchVideos
 
 bot = Client(
     "Music Bot",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+    bot_token = os.environ["829809566:AAH97GqDC9_sGApp1nWwSBDItxQKaGjbaPU"],
+    api_id = int(os.environ["1286763"]),
+    api_hash = os.environ["676238949450c128a465ec4c0cc9c170"]
 )
 
 START_TEXT = """
